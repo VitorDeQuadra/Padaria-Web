@@ -1,0 +1,363 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+/*font-family: 'Open Sans', sans-serif;*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+/*font-family: 'Lobster', cursive;*/
+
+.body{
+    margin: 0;
+}
+
+header{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.logo{
+    width: 1125px;
+    height: 90px;
+
+    margin-top: -15px;
+    margin-left: -15px;
+}
+
+.logo img{
+    margin-top: 15px;
+    width: 120px
+}
+
+.cab{
+    width: 1125px;
+    height: 650px;
+    display: flex;
+}
+
+.text{
+    width: 48%;
+    height: 600px;
+}
+
+.text h2, p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text h2{
+    padding: 25% 0 0 0;
+    font-size: 40px;
+    color: #d9d9d9;
+}
+
+.text h1{
+    font-family: 'Lobster', cursive;
+    font-size: 80px;
+    margin-top: -35px;
+
+    color: #332f29;
+    margin-left: -110px;
+}
+
+.text p{
+    line-height: 29px;
+    margin-left: -110px;
+}
+
+.imgs{
+    width: 52%;
+    height: 600px;
+}
+
+.imgs #img1{
+    width: 350px;
+    height: 300px;
+
+    padding: 0 0 0 30px;
+}
+
+.imgs #img2{
+    width: 250px;
+    height: 300px;
+
+    padding: 15px 15px 0 30px;
+}
+
+.imgs #img3{
+    width: 250px;
+    height: 300px;
+}
+
+main{
+    margin: 0;
+}
+
+.corpo{
+    width: 1355px;
+    height: 660px;
+    display: flex;
+    margin-top: 50px;
+    margin-left: -20px;
+
+    background: #d9d9d9;
+}
+
+.img{
+    width: 40%;
+    height: 600px;
+}
+
+.img img{
+    width: 350px;
+    height: 500px;
+
+    padding: 80px 0 80px 90px;
+}
+
+.text2{
+    width: 44%;
+    height: 600px;
+}
+
+.text2 h2{
+    padding: 25% 0 0 0;
+    font-size: 40px;
+    color: white;
+}
+
+.text2 h1{
+    font-family: 'Lobster', cursive;
+    font-size: 100px;
+    margin-top: -70px;
+    padding: 0 0 0 30px;
+
+    color: #332f29;
+}
+
+.text2 p{
+    margin-top: -40px;
+    line-height: 29px;
+}
+
+.text2 h2, p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.corpo2{
+    width: 1343px;
+    height: 620px;
+    margin-left: -8px;
+
+    background: #332f29;
+}
+
+.produtos{
+    width: 1250px;
+    height: 50%;
+    margin-left: 50px;
+    margin-right: 50px;
+
+    display: flex;
+}
+
+.produtos h2 p{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 29px;
+}
+
+.produtos h2{
+    font-size: 30px;
+    color: white;
+
+    margin-left: 110px;
+    margin-top: 90px;
+}
+
+.produtos p{
+    font-size: 16px;
+    color: white;
+
+    margin-right: 30px;
+}
+
+.produtos2{
+    width: 1250px;
+    height: 50%;
+    margin-left: 50px;
+    margin-right: 50px;
+
+    display: flex;
+}
+
+.produtos2 h2 p{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 29px;
+}
+
+.produtos2 h2{
+    font-size: 30px;
+    color: white;
+
+    margin-left: 110px;
+    margin-top: 90px;
+}
+
+.produtos2 p{
+    font-size: 16px;
+    color: white;
+
+    margin-right: 30px;
+    margin-bottom: 90px;
+}
+
+.titulo{
+    width: 1000px;
+    height: 150px;
+
+    margin-top: 70px;
+    margin-bottom: 60px;
+}
+
+.titulo h2{
+    font-family: 'Open Sans', sans-serif;
+    color: #d9d9d9;
+
+    font-size: 40px;
+}
+
+.titulo h1{
+    font-family: 'Lobster', cursive;
+    color: #332f29;
+
+    font-size: 90px;
+    margin-top: -65px;
+    margin-left: 20px;
+}
+
+.imgs2{
+    width: 1000px;
+    height: 1000px;
+
+    display: flex;
+}
+
+.imgs2 img{
+    width: 250px;
+}
+.i1 img{
+    width: 370px;
+    height: 460px;
+
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.i2 img{
+    width: 320px;
+    height: 300px;
+
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.i3 img{
+    width: 370px;
+    height: 460px;
+
+    margin-bottom: 20px;
+}
+
+.imagem{
+    width: 1337px;
+    height: 720px;
+}
+
+.imagem img{
+    width: 1345px;
+    height: 720px;
+    margin-left: -8px;
+}
+
+.imagem h1{
+    margin-top: -380px;
+
+    color: white;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 90px
+}
+
+.fim{
+    width: 1337px;
+    height: 620px;
+
+    background-image: url('imagens/img1.png');
+    background-size: 100%;
+    display: flex;
+    margin-bottom: 0;
+}
+
+.fim h2{
+    font-family: 'Open Sans', sans-serif;
+    color: #d9d9d9;
+
+    font-size: 40px;
+    padding-top: 200px;
+}
+
+.fim h1{
+    font-family: 'Lobster', cursive;
+    color: #332f29;
+
+    font-size: 90px;
+    margin-top: -65px;
+    margin-left: 30px;
+}
+
+.fim p{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 19px;
+    margin-left: 30px;
+}
+
+.fim h2, h1, p{
+    padding-left: 110px;
+}
+
+.imgfim{
+    width: 50%;
+    height: 720px;
+}
+
+.imgfim img{
+    width: 350px;
+    height: 250px;
+
+    
+}
+
+#img1{
+    padding-top: 100px;
+    padding-left: 315px;
+}
+
+#img2{
+    margin-top: 20px;
+    padding-left: 115px;
+}
+
+footer{
+    background: #332f29;
+    color: white;
+    text-align: center;
+    width: 1345px;
+    height: 100px;
+    margin-top: 0;
+    margin-left: -8px;
+}
+
+footer p{
+    padding-top: 40px;
+}
+
+
+
+
+
+
